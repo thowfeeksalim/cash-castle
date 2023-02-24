@@ -15,6 +15,7 @@
 
 ## Login information
 - Login as `ts` with password `1234`.
+- Login as `ss` with password `7695`.
 
 
 ## Deployment
