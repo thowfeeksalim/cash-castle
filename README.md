@@ -3,11 +3,9 @@
 <br>
 <h1 align="center"> <strong> CASH CASTLE🤑 </strong> </h1> 
 <h1 align="center"><a href="https://thowfeeksalim.github.io/cash-castle">Live Demo</a></h1>
-#  CASH CASTLE🤑
-
-A fictional and simple internet banking tool called cashcastle gives users the following options:
 
 
+### A fictional and simple internet banking tool called cashcastle gives users the following options:
 - Enter a username and password 
 - See and sort their financial transactions
 - Move money to another account 
@@ -15,9 +13,8 @@ A fictional and simple internet banking tool called cashcastle gives users the f
 - Get their account deleted
 
 
-
-Login information:
-- Login as ts with password 1234.
+## Login information
+- Login as `ts` with password `1234`.
 
 
 ## Deployment
@@ -80,10 +77,10 @@ Give a ⭐️ if you like this project!
 ## License
 
 ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
-
+<p align="center">
 This project is licensed under the MIT License.
 
-Copyright (c) 2021 Thowfeek Salim
+Copyright (c) 2023 Thowfeek Salim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
