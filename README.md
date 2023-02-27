@@ -15,7 +15,19 @@
 
 ## Login information
 - Login as `ts` with password `1234`.
-- Login as `ss` with password `7695`.
+- Login as `ss` with password `4321`.
+
+
+
+## Main features of Cash Castle
+
+
+
+#### Data: The program contains two different accounts with different data. Each account has an owner's name, movements (an array of numbers), interest rate, pin, movement dates, currency, and locale.
+
+#### Elements: The program has various HTML elements that are used to display account details, including labels for welcome message, date, balance, summary of transactions (in, out, and interest), and a timer. It also includes a container for displaying account movements and buttons for different actions, such as login, transfer, loan, close account, and sorting of movements.
+
+#### Functions: The program includes various functions that are used to format dates and currencies, display account movements, and perform different banking operations such as logging in, transferring money, requesting loans, and closing accounts
 
 
 ## Deployment
